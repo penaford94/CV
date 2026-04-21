@@ -20,3 +20,5 @@ Puedes visitar el sitio en vivo aquí: [🔗 Ver sitio](https://nicolascabello.g
  
 Desarrollado por **Nicolás Cabello Troncoso** · [LinkedIn](https://www.linkedin.com/in/nicolas-cabello-troncoso/) · [nfcabello@uc.cl](mailto:nfcabello@uc.cl)
  
+# Modificación por Sebastián Peña Ford
+Tuve que comentar la cuarta linea de codigo que actualmente quedó de esta forma para poder visualizar correctamente desde live server. Esta quedó asi: <!-- <base href="/CV/"> -->
